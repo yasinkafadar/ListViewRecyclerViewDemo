@@ -25,12 +25,7 @@
     </td>
     <td>
       <h3>RecyclerView</h3>
-      <img src="https://lh3.googleusercontent.com/4W6RrIxWEsBTVJipQMipwdQc_p17IZwtnKDjMbHHt_OOrjP1XH7tp6CnTShdIjB4oM-1_U6tEV2zsA=w3360-h1764-rw" width="350"/>
+      <img src="https://lh3.googleusercontent.com/QB0hL6pDFq4JUeLNTQB_vj1BViw8HZc4yfzIht9x0XCuF8xLbrMtywoNZBx-xzKd5DKNsESDL9bVFA=w3360-h1764-rw" width="350"/>
     </td>
   </tr>
 </table>
-
-
-<img src="https://lh3.googleusercontent.com/4W6RrIxWEsBTVJipQMipwdQc_p17IZwtnKDjMbHHt_OOrjP1XH7tp6CnTShdIjB4oM-1_U6tEV2zsA=w3360-h1764-rw" width="350"/>
-
-![alt text](https://lh3.googleusercontent.com/4W6RrIxWEsBTVJipQMipwdQc_p17IZwtnKDjMbHHt_OOrjP1XH7tp6CnTShdIjB4oM-1_U6tEV2zsA=w3360-h1764-rw)
